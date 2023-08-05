@@ -81,6 +81,7 @@ for (let i = 0; i < comments.length; i++) {
 exit.addEventListener("click",function(){
   registr_page.style.display = "flex";
   main_page.style.display = "none";
+  footerElement.style.display = "none"
 })
 
 
